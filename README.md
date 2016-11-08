@@ -2,9 +2,7 @@
 # Recycler View 2<br>
 # ScreenShoot: <br> <br> <br>
  <br> <br> 
-
- <br> <br>
-
+![Uploading Screenshot_20161107-072100.png…]()
 <br> <br> <br>
 
 
