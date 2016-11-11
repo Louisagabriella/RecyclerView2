@@ -1,8 +1,7 @@
 # RecyclerView2
 # Recycler View 2<br>
 # ScreenShoot: <br> <br> <br>
- <br> <br> 
-![Uploading Screenshot_20161107-072100.png…]()
+![rv2](https://cloud.githubusercontent.com/assets/21364340/20218202/3345be1a-a7d8-11e6-86b0-47d3dc5fed21.png)
 <br> <br> <br>
 
 
