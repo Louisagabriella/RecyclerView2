@@ -5,10 +5,6 @@
 <br> <br> <br>
 
 
-#Link APK <br>
-https://drive.google.com/open?id=0B2j5Yd_9VxeoZEIwNjZLTjVnWTA
- <br> <br> <br>
-
 # Identitas <br>
 NAMA : LOUISA GABRIELLA <br>
 KELAS : XI RPL 5 <br>
